@@ -1,3 +1,1 @@
-test sample
-test sample baris 2
-test sample baris 3 
+test sample 
